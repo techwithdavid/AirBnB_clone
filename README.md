@@ -4,7 +4,7 @@
 |**By Guillaume**									       |
 |:--											       |
 |**Weight:** 5										       |
-|Project to be done in teams of 2 people **(your team: Olasunkanmi David, Amarachi Okeke)** 	       |
+|Project to be done in teams of 2 people **( Olasunkanmi David, Amarachi Okeke )** 	       |
 |**Ongoing project** - started May 8, 2023, must end by May 15, 2023			       |
 |Checker will be released at May 13, 2023 12:00 PM				       	       |
 |**Manual QA review must be done** (request it when you are done with the project)	       |
