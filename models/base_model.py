@@ -22,9 +22,3 @@ class BaseModel:
         inst_to_dict['updated_at'] = self.updated_at.isoformat()
         
         return inst_to_dict
-
-
-my_model = BaseModel()
-my_model.name = "My First Model"
-my_model.my_number = 89
-print(my_model.to_dict())
