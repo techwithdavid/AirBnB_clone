@@ -16,6 +16,11 @@ class BaseModel:
 
     def to_dict(self):
         inst_to_dict = dict(self.__dict__)
+
+        inst_to_dict['__class__'] = self.__class__.__name__
+        inst_to_dict['created_at'] = self.created_at.isoformat()
+        inst_to_dict['updated_at'] = self.updated_at.isoformat()
+        
         return inst_to_dict
 
 
