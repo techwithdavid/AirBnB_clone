@@ -1,4 +1,5 @@
 import cmd
+import models
 
 class HBNBCommand(cmd.Cmd):
     prompt = '(hbnb)'
