@@ -4,7 +4,7 @@
 |By: Guillaume									|
 |:--										|
 |Weight: 1									|
-|Project will start Aug 11, 2022 6:00 AM, must end by Aug 16, 2022 6:00 AM	|
+|Project will start May 18, 2023 6:00 AM, must end by May 23, 2023 6:00 AM|
 |Manual QA review must be done (request it when you are done with the project)	|
 
 ## Concepts
